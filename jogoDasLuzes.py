@@ -1,8 +1,4 @@
 from random import choice
-#Random éum modulo utilizado em python para gerar numeros pseudo-aleatorios.
-#Ou seja, ele seleciona elementos de uma lista de forma aleatoria e exibe o
-#seu resultado embaralhado........... O choice ou random.choice retorna "um" elemento
-#da sequencia sorteada.
 
 # inicialmente não temos vitorias
 jogador_vitorias = 0
